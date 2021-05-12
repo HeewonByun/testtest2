@@ -26,7 +26,7 @@
 
  번호없는 목록:
  - [리스트1 상대경로](Secondfile.md)
- - [리스트1 절대경로](./Secondfile.md)
+ - [리스트1 절대경로](./Secondfile.md) 
    - 서브1
    - 서브2
    - 서브3
